@@ -30,11 +30,11 @@ This application displays two tables with data analytics information as requeste
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mujtbkhn/manufac-assignment.git
+   git clone https://github.com/mujtbkhn/manufac-task.git
 
 2. Clone the repository:
    ```bash
-   cd manufac-assignment
+   cd manufac-task
 
 3. Install Dependencies
    ```bash
