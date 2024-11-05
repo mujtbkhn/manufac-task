@@ -1,5 +1,6 @@
 import React from "react";
 import "./Table.css";
+import { Table } from "@mantine/core";
 import { CustomTableProps } from "../utils/types";
 import useTable1 from "../utils/hooks/useTable1";
 
@@ -9,7 +10,7 @@ const Table1: React.FC<CustomTableProps> = ({ data }) => {
 
   return (
     <div className="table-container">
-      <table className="custom-table">
+      <Table className="custom-table">
         <thead>
           <tr>
             <th>Year</th>
@@ -26,7 +27,7 @@ const Table1: React.FC<CustomTableProps> = ({ data }) => {
             </tr>
           ))}
         </tbody>
-      </table>
+      </Table>
     </div>
   );
 };
