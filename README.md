@@ -47,7 +47,7 @@ This application displays two tables with data analytics information as requeste
 5. Run the project:
    ```bash
    yarn dev
-Open your browser and navigate to http://localhost:3000 (or the port specified in the console output).
+Open your browser and navigate to http://localhost:5173 (or the port specified in the console output).
 
 ## 📈 Table Images
 1. Maximum and Minimum Production by Year
@@ -84,7 +84,7 @@ Contributions to improve the project are welcome. Please follow these steps to c
 
 [mujjukhn538@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/mujtbkhn/manufac-assignment](https://github.com/mujtbkhn/manufac-assignment)
+Project Link: [https://github.com/mujtbkhn/manufac-assignment](https://github.com/mujtbkhn/manufac-task)
 
 <p align="center">
   Made with ❤️ by Mujtaba Khan
