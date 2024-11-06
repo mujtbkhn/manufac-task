@@ -84,7 +84,7 @@ Contributions to improve the project are welcome. Please follow these steps to c
 
 [mujjukhn538@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/mujtbkhn/manufac-assignment](https://github.com/mujtbkhn/manufac-task)
+Project Link: [https://github.com/mujtbkhn/manufac-task](https://github.com/mujtbkhn/manufac-task)
 
 <p align="center">
   Made with ❤️ by Mujtaba Khan
